@@ -3,3 +3,5 @@
 <br/>演示连接:https://www.waylee.net/
 
 :zap:
+
+:cn:
